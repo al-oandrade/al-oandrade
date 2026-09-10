@@ -1,4 +1,4 @@
-## hi, i'm Al 👋
-- 📚 Information Technology Management student at <b>Fatec Barueri</b>
-- 🌱 currently learning Python and Cybersecurity basics
-- 🎹 amateur jazz pianist, very much interested in music and also cooking
+## hi, i'm AL 👋
+- 📚 IT Management student at <b>Fatec Barueri</b>
+- 🛠️ current Role: IT support analyst
+- 🎹 amateur jazz pianist 
